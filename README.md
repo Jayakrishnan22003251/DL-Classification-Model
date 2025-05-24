@@ -38,9 +38,9 @@ Write your own steps
 
 ## PROGRAM
 
-### Name:
+### Name: JAYAKRISHNAN L B L
 
-### Register Number:
+### Register Number: 212222230052
 
 ```python
 class IrisClassifier(nn.Module):
